@@ -5,6 +5,9 @@ body{
 h1{
     font-size: 50px;
 }
+h2{
+    font-size: 40px;
+}
 .orange-color{
     color: orange;
 }
@@ -63,6 +66,8 @@ padding: 10px 30px;
    border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
 }
-
+footer p{
+    text-align: center;
+}
 
 
